@@ -23,7 +23,6 @@
   "homepage": "https://github.com/LydiaCodes22/Music_library#readme",
   "devDependencies": {
     "chai": "^4.3.6",
-    "dotenv": "^16.0.0",
     "eslint": "^8.14.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.26.0",
@@ -32,6 +31,7 @@
     "supertest": "^6.2.3"
   },
   "dependencies": {
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "mysql2": "^2.3.3"
   }
